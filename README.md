@@ -12,6 +12,7 @@ python main.py [OPTIONS] [CITY]
 ```
 <p>CITY - required argument, application will show weather data for this place</p>
 <p>OPTIONS - at least one of the options is required, you can show available options by typing:</p>
+
 ```
 python main.py -h
 ```
