@@ -1,6 +1,9 @@
-# Weather application example
-A CLI weather application example based on openweathermap.org API
-
 # Getting started
-To use weather application example you need to apply for free API key first.
-To do so go to the page: https://openweathermap.org/price
+
+You are about to use a CLI weather application example based on openweathermap.org API.
+Before that you need to apply for a free API key: https://openweathermap.org/price.
+Then download all the files and create .env file in the same directory. It will contain:
+'''
+WEA_API={free openweathermap.org API you have applied for}
+'''
+
